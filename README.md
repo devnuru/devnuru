@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi I'm Md Nuruzzaman Chowdhury 👋 💻 👋
 
-<!--
-**devnuru/devnuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Developer. Speaker, and Youtuber!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MERN stack!
+- 🌱 I’m currently learning React Native & GraphQL.
+- 👯 I’m looking to collaborate on MERN Stack!
+- 💬 Ask me about JavaScript, MERN Stack development
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://mdnuruzzamanchowdhury.com/
+[twitter]: https://twitter.com/nuruzzamanDev
+[youtube]: https://www.youtube.com/channel/UCWm6WQHAIhXyHYZMuH-mE4A?view_as=subscriber
+[linkedin]: https://www.linkedin.com/in/md-nuruzzaman-chowdhury-3ab580189/
+[npm]: https://www.npmjs.com/~nuruzzaman
