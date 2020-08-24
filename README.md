@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MERN stack!
+- 🔭 I’m currently working on MERN stack, WordPress!
 - 🌱 I’m currently learning React Native & GraphQL.
 - 👯 I’m looking to collaborate on MERN Stack!
 - 💬 Ask me about JavaScript, MERN Stack development
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 
