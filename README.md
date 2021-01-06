@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MERN Stack!
 - 💬 Ask me about JavaScript, MERN Stack development
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve a Rubik's cube in under five minute!
+
 
 
 🏡 [website][website] **|** 
