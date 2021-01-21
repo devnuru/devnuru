@@ -1,6 +1,6 @@
 ### Hi I'm Md Nuruzzaman Chowdhury 👋 💻 👋
 
-## I'm Developer. Speaker, and Youtuber!
+## Developer. Speaker, and Youtuber!
 
 Here are some ideas to get you started:
 
