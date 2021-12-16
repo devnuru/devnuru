@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MERN stack, WordPress!
-- 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on MERN Stack!
-- 💬 Ask me about JavaScript, MERN Stack development
+- 🔭 I’m currently working on Front-end and WordPress!
+- 🌱 I’m currently learning Reactjs And PHP.
+- 👯 I’m looking to collaborate on Front-end!
+- 💬 Ask me about JavaScript, WordPress development
 - 😄 Pronouns: he/him
 
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 👔 [linkedin][linkedin]
 
 
-[website]: https://mdnuruzzamanchowdhury.com/
+[website]: https://mdnuruzzaman.techtodeals.com/
 [twitter]: https://twitter.com/nuruzzamanDev
 [youtube]: https://www.youtube.com/channel/UCWm6WQHAIhXyHYZMuH-mE4A?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/devnuru/
