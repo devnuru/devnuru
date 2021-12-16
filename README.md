@@ -1,4 +1,4 @@
-### Hi I'm Md Nuruzzaman Chowdhury 👋 💻 👋
+### Hi I'm Md. Nuruzzaman Chowdhury 👋 💻 👋
 
 ## Developer. Speaker, and Youtuber!
 
