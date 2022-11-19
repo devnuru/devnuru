@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [devnuru](https://mdnuruzzaman.techtodeals.com/#portfolio)
+- 👨‍💻 All of my projects are available at [devnuru.com](https://devnurus.com/#portfolio)
 
-- 📝 I regularly write articles on [https://mdnuruzzaman.techtodeals.com/#posts](https://mdnuruzzaman.techtodeals.com/#posts)
+- 📝 I regularly write articles on [Blog posts](https://devnuru.com/#posts)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, react & WordPress**
 
 - 📫 How to reach me **devnuruzzaman@gmail.com**
 
-- 📄 Know about my experiences [https://mdnuruzzaman.techtodeals.com/#resume](https://mdnuruzzaman.techtodeals.com/#resume)
+- 📄 Know about my experiences [Resume](https://devnuru.com/#resume)
 
 - ⚡ Fun fact **I think I'm so foolish**
 
