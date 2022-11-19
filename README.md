@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Nuruzzaman Chowdhury</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh. Developer. Speaker, and Youtuber!</h3>
+<h3 align="center">A passionate front-end developer from Bangladesh. Developer. Speaker, and Youtuber!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnuru&label=Profile%20views&color=0e75b6&style=flat" alt="devnuru" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/nuruzzamandev" target="blank"><img src="https://img.shields.io/twitter/follow/nuruzzamandev?logo=twitter&style=for-the-badge" alt="nuruzzamandev" /></a> </p>
 
-- 🔭 I’m currently working on [Front-end development & WordPress](https://mdnuruzzaman.techtodeals.com/#portfolio)
+- 🔭 I’m currently working on [Front-end development & WordPress](link)
 
-- 🌱 I’m currently learning **React, Next & PHP**
+- 🌱 I’m currently learning **Next & PHP**
 
 - 👯 I’m looking to collaborate on **Front-end development**
 
-- 🤝 I’m looking for help with **Full Stack Development**
+- 🤝 I’m looking for help with **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://mdnuruzzaman.techtodeals.com/#portfolio](https://mdnuruzzaman.techtodeals.com/#portfolio)
 
 - 📝 I regularly write articles on [https://mdnuruzzaman.techtodeals.com/#posts](https://mdnuruzzaman.techtodeals.com/#posts)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, react, WordPress**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, react & WordPress**
 
 - 📫 How to reach me **devnuruzzaman@gmail.com**
 
