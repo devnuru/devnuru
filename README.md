@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://mdnuruzzaman.techtodeals.com/#portfolio](link)
+- 👨‍💻 All of my projects are available at [devnuru](https://mdnuruzzaman.techtodeals.com/#portfolio)
 
 - 📝 I regularly write articles on [https://mdnuruzzaman.techtodeals.com/#posts](https://mdnuruzzaman.techtodeals.com/#posts)
 
