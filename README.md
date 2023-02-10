@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Front-end development & WordPress](link)
 
-- 🌱 I’m currently learning **Next & PHP**
+- 🌱 I’m currently learning **Redux & Nextjs*
 
 - 👯 I’m looking to collaborate on **Front-end development**
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [Resume](https://devnuru.com/#resume)
 
-- ⚡ Fun fact **I think I'm so foolish**
+- ⚡ Fun fact **I think I'm so open-minded**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
