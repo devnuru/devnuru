@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, react & WordPress**
 
-- 📫 How to reach me **devnuruzzaman@gmail.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences [Resume](https://devnuru.com/#resume)
 
