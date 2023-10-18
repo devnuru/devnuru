@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Nuruzzaman Chowdhury</h1>
-<h3 align="center">A passionate front-end developer from Bangladesh. Developer. Speaker, and Youtuber!</h3>
+<h3 align="center">Pro WordPress Developer | Front-End Expert | Elementor | WooCommerce </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnuru&label=Profile%20views&color=0e75b6&style=flat" alt="devnuru" /> </p>
 
