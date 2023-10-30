@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [devnuru.com](https://devnurus.com/#portfolio)
+- 👨‍💻 All of my projects are available at [devnuru.com](https://devnuru.com/portfolio)
 
-- 📝 I regularly write articles on [Blog posts](https://devnuru.com/#posts)
+- 📝 I regularly write articles on [Blog posts](https://devnuru.com/blog)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, react & WordPress**
 
 - 📫 How to reach me ****
 
-- 📄 Know about my experiences [Resume](https://devnuru.com/#resume)
+- 📄 Know about my experiences [Resume](https://devnuru.com/resume)
 
 - ⚡ Fun fact **I think I'm so open-minded**
 
