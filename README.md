@@ -30,7 +30,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@devnuru-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devnuru)](https://twitter.com/devnuru) 
 [![Mail Badge](https://img.shields.io/badge/-Devnuru-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@devnuru?si=rYeYSkEaREqugOCt) 
-[![Linkedin Badge](https://img.shields.io/badge/-Md.-Nuruzzaman-Chowdhury-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnuru/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nuruzzaman_Chowdhury-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnuru/) 
 [![Mail Badge](https://img.shields.io/badge/-@Devnuru-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/devnuru/) 
 [![Mail Badge](https://img.shields.io/badge/-Devnuru-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:haynuru@devnuru.com)
 
