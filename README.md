@@ -49,8 +49,6 @@
 <a href="https://discord.gg/devnuru#0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devnuru#0011" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
  ## Languages and Tools 🛠️
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -76,4 +74,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/devnuru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devnuru" /></a><a href="https://ko-fi.com/devnuru"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devnuru" /></a></p><br><br>
 
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=devnuru&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devnuru&layout=compact&&langs_count=8"/>
+</div>
+
+### Profile views counter 👁️‍🗨️
+[![Devnuru profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/devnuru)
+
+<div ></div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnuru&show_icons=true&locale=en&layout=compact" alt="devnuru" /></p>
