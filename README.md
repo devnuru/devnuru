@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://devnuru.com/portfolio/](https://devnuru.com/portfolio/)
+- 👨‍💻 All of my projects are available at [https://devnuru.com/projects/](https://devnuru.com/projects/)
 
 - 📝 I regularly write articles on [https://devnuru.com/blog/](https://devnuru.com/blog/)
 
