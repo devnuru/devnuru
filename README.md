@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Nuruzzaman Chowdhury</h1>
-<h3 align="center">A passionate WordPress Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Wordpress](https://github.com/WordPress/WordPress)
+- 🔭 I’m currently working on WordPress & Front-end Development 
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **GraphQL & React Native**
 
-- 👯 I’m looking to collaborate on **WordPress**
+- 👯 I’m looking to collaborate on **WordPress & front-end Development
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
@@ -13,13 +13,13 @@
 
 - 📝 I regularly write articles on [https://devnuru.com/blog/](https://devnuru.com/blog/)
 
-- 💬 Ask me about **wordpress, html, css, php, js**
+- 💬 Ask me about **WordPress, html, css, php, js, reactjs, nextjs**
 
 - 📫 How to reach me **devnuruzzaman@gmail.com**
 
 - 📄 Know about my experiences [https://devnuru.com/](https://devnuru.com/)
 
-- ⚡ Fun fact **I'm open minded**
+- ⚡ Fun fact **I love coding**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
