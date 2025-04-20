@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **WordPress, html, css, php, js, reactjs, nextjs**
 
-- 📫 How to reach me **devnuruzzaman@gmail.com**
-
 - 📄 Know about my experiences [https://devnuru.com/](https://devnuru.com/)
 
 - ⚡ Fun fact **I love coding**
