@@ -13,13 +13,13 @@
 
 - 📝 I regularly write articles on [https://devnuru.com/blog/](https://devnuru.com/blog/)
 
-- 💬 Ask me about **WordPress, html, css, php, js, reactjs, nextjs**
+- 💬 Ask me about **WordPress, HTML, CSS, PHP, JavaScript, ReactJS, NextJS**
 
 - 📄 Know about my experiences [https://devnuru.com/](https://devnuru.com/)
 
 - ⚡ Fun fact **I love coding**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
