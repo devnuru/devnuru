@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Nuruzzaman Chowdhury</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on WordPress & Front-end Development 
+- 🔭 I’m currently working on Full Stack Development 
 
 - 🌱 I’m currently learning **GraphQL & React Native**
 
