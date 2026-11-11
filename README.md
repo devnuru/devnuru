@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **GraphQL & React Native**
 
-- 👯 I’m looking to collaborate on **WordPress & front-end Development
+- 👯 I’m looking to collaborate on **Full Stack Development, WordPress and front-end Development
 
-- 🤝 I’m looking for help with **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://devnuru.com/projects/](https://devnuru.com/projects/)
 
